@@ -43,7 +43,7 @@ Como este foi meu primeiro projeto utilizando essas tecnologias, o funcionamento
 
 Para utilizar a aplicação, você precisará ter o [Git](https://git-scm.com) e o [Node.JS/NPM](https://nodejs.org/en/) instalados em seu computador.
 
-Após ter instalado eles, clique com o botão direito do mouse dentro de algum diretório de seu computador e escolha a opção "Git Bash Here", isso abrirá a um terminal de linha de comando, agora basta seguir os seguintes passos:
+Após ter instalado eles, clique com o botão direito do mouse dentro de algum diretório de seu computador e escolha a opção "Git Bash Here", isso abrirá um terminal de linha de comando, agora basta seguir os seguintes passos:
 
 ### Baixando o projeto
 ```bash

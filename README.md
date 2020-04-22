@@ -66,4 +66,4 @@ $ npm start
 ```
 
 Após ter realizado estes passos, o projeto estará rodando na porta 3000 da sua máquina, basta entrar em seu browser e digitar "localhost:3000" na barra de endereços de seu navegador, e lá estará a aplicação funcionando :D<br><br>
-Para fechar a aplicação basta entrar no terminal que você deixou aberto após iniciar a aplicação, e apertar CTRL+C para parar a aplicação, após isso a porta 3000 da sua máquina não estará mais rodando aplicação.
+Para fechar a aplicação basta entrar no terminal que você deixou aberto após tê-la iniciado, e apertar CTRL+C para encerrar seu funcionamento, caso deseje iniciá-la novamente basta digitar "npm start" e ela será iniciada novamente.

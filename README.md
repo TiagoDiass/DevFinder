@@ -41,7 +41,7 @@ Como este foi meu primeiro projeto utilizando essas tecnologias, o funcionamento
 
 ## Como executar o projeto em sua máquina :arrow_forward:
 
-Para utilizar a aplicação, você precisará ter o [Git](https://git-scm.com) e o [Node.JS/NPM](https://nodejs.org/en/) instalados em seu computador.
+Para utilizar a aplicação, você precisará ter o [Git](https://git-scm.com) e o [Node.JS/NPM](https://nodejs.org/pt-br/) instalados em seu computador.
 
 Após ter instalado eles, clique com o botão direito do mouse dentro de algum diretório de seu computador e escolha a opção "Git Bash Here", isso abrirá um terminal de linha de comando, agora basta seguir os seguintes passos:
 
@@ -65,4 +65,5 @@ $ npm install
 $ npm start
 ```
 
-Após ter realizado estes passos, o projeto estará rodando na porta 3000 da sua máquina, basta entrar em seu browser e digitar "localhost:3000" na barra de endereços de seu navegador, e lá estará o projeto funcionando :D
+Após ter realizado estes passos, o projeto estará rodando na porta 3000 da sua máquina, basta entrar em seu browser e digitar "localhost:3000" na barra de endereços de seu navegador, e lá estará a aplicação funcionando :D<br><br>
+Para fechar a aplicação basta entrar no terminal que você deixou aberto após iniciar a aplicação, e apertar CTRL+C para parar a aplicação, após isso a porta 3000 da sua máquina não estará mais rodando aplicação.

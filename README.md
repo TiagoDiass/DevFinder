@@ -1,6 +1,6 @@
 # DevFinder
 ![](DevFinder-GIF-1.gif)<br><br>
-Este é meu primeiro projeto com NodeJS, e a descrição dele está logo abaixo:
+Este é meu primeiro projeto com NodeJS, e a descrição dele está logo abaixo :arrow_heading_down:
 
 Este projeto se trata de um portal de vagas(responsivo) especializado em vagas para desenvolvedores, eu gostei muito de desenvolvê-lo e também achei o resultado final muito bom, você pode ver um pouco do resultado final mais abaixo, e após os resultados finais você pode ver como rodar o projeto em sua máquina.
 
